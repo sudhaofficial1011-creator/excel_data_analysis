@@ -1,2 +1,2 @@
-# excel_data_analysis
+# Excel_data_analysis
 Excel Data Analysis capstone project
